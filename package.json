@@ -1,0 +1,25 @@
+{
+  "name": "cypressdemonetcentric",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start & cypress run",
+    "tests": "cypress run",
+    "cypress:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:record": "cypress run --record"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://source.int.netcentric.biz/git/users/federico.mastandrea/repos/cypress-demo-netcentric/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.1.0",
+    "cypress-plugin-tab": "^1.0.4",
+    "cypress-xpath": "^1.4.0"
+  }
+}

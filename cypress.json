@@ -1,0 +1,11 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "http://localhost:4502",
+  "videoUploadOnPasses": true,
+  "viewportWidth": 1500,
+  "viewportHeight": 900,
+  "pageLoadTimeout": 200000,
+  "userAgent": "(Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36"
+}
+
+
